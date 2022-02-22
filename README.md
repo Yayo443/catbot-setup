@@ -2,9 +2,10 @@
 
 Setup scripts for  cat-bots (cathook navbots)
 
-After the install script finished successfully, my forked navmesh files have to be moved into your tf2 maps directory.  
-They can be found [here](https://github.com/Yayo443/catbot-database).
+You must type one of the commands in your terminal that support your distribution to make it work.
 
+After the install script finished successfully, the\navmesh files have to be moved into your tf2 maps directory.  
+They can be found [here](https://github.com/Yayo443/catbot-database).
 
 ## Required Dependencies
 Ubuntu/Debian
